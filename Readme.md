@@ -1,3 +1,6 @@
+## 🔗 Live Demo
+https://vijaykr2004.github.io/Peacock-Zaika/
+
 # Peacock Zaika – Restaurant Website 🍽️
 
 Peacock Zaika is a **responsive restaurant website** created using **HTML5 and CSS3**.  
